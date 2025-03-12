@@ -1,2 +1,2 @@
-echo "print('Hello, GitHub!')" 
+print('Hello, GitHub!')
 
